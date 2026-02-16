@@ -1,4 +1,4 @@
 # First-demo
-A responsive expense tracking web app built with HTML, CSS and JavaScript.
+this is my first repo.
 <br>
-Author - Humaira Anjum
+Author - Humaira Anjum Qadri
